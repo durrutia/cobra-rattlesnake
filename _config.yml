@@ -1,0 +1,11 @@
+title: Cobra RattleSnake
+description: Taiwanese-inspired hot sauces for riders, eaters, and heat seekers.
+url: ""
+baseurl: ""
+markdown: kramdown
+theme: null
+plugins: []
+collections:
+  products:
+    output: true
+    permalink: /products/:name/
