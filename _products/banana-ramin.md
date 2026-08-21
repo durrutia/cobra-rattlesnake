@@ -7,7 +7,7 @@ heat: MEDIUM
 short: Ripe banana, fermented chili, tamarind, galangal, and a grudge.
 description: "A sweet-heat sauce born from one man's vendetta against the monkeys who steal his breakfast. Fruity, funky, and personally offended."
 pairs: "grilled pork, fried rice, satay, roti, stolen mangoes"
-permalink: /products/banana-ramin/
+permalink: /products/banana-farid/
 ---
 
 ## The grumpiest sauce on the mountain.
