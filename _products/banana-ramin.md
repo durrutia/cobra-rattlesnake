@@ -1,7 +1,7 @@
 ---
 layout: product
-title: Râmin's Banana Wrath
-name: Râmin's Banana Wrath
+title: Farid's Banana Wrath
+name: Farid's Banana Wrath
 short_label: BANANA WRATH
 heat: MEDIUM
 short: Ripe banana, fermented chili, tamarind, galangal, and a grudge.
@@ -12,20 +12,20 @@ permalink: /products/banana-ramin/
 
 ## The grumpiest sauce on the mountain.
 
-Râmin doesn't make sauce. He *settles scores*. Every batch of Banana Wrath starts with bananas the long-tailed thieves didn't get to first—hand-snatched at dawn from his own trees, fermentation jars guarded like state secrets.
+Farid doesn't make sauce. He *settles scores*. Every batch of Banana Wrath starts with bananas the long-tailed thieves didn't get to first—hand-snatched at dawn from his own trees, fermentation jars guarded like state secrets.
 
-The tamarind brings sour betrayal. The galangal bites back. The fermented chili lingers like a grudge held for decades. Râmin tastes every bottle himself, scowling the entire time. If he nods, it ships. If he doesn't, the monkeys get it.
+The tamarind brings sour betrayal. The galangal bites back. The fermented chili lingers like a grudge held for decades. Farid tastes every bottle himself, scowling the entire time. If he nods, it ships. If he doesn't, the monkeys get it.
 
 **Heat:** 5/10  
 **Mood:** "Get off my lawn, and take the durian with you."
 
-### The Legend of Râmin
+### The Legend of Farid
 
-They say Râmin was born yelling at a cloud. He lives in a wooden shack halfway up a misty ridge where the bananas grow sweet and the macaques grow bold. No electricity. No internet. Just a wok, a mortar, and a very long stick.
+They say Farid was born yelling at a cloud. He lives in a wooden shack halfway up a misty ridge where the bananas grow sweet and the macaques grow bold. No electricity. No internet. Just a wok, a mortar, and a very long stick.
 
 The monkeys know his footsteps. They scatter when he coughs. They've learned that the bananas *left behind* become something far worse than stolen fruit—they become *sauce*, and that sauce ends up on *their* favorite raid targets: the night market stalls, the roadside grills, the backpackers' fried rice.
 
-Râmin doesn't sell. He distributes justice. Each bottle comes with a handwritten note in cramped script: *"Eat loud. They hate that."*
+Farid doesn't sell. He distributes justice. Each bottle comes with a handwritten note in cramped script: *"Eat loud. They hate that."
 
 ### Suggested Crimes
 
