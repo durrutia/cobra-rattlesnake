@@ -65,7 +65,7 @@ footer{margin-top:100px;padding:40px 7vw;background:var(--dark);color:white;disp
 .footer-bike{font-size:2rem}
 @media(max-width:750px){
   .nav-toggle{display:block}
-  nav{position:absolute;top:100%;left:0;right:0;background:var(--dark);flex-direction:column;padding:20px 5vw;gap:0;display:none;border-bottom:5px solid var(--red)}
+  nav{position:absolute;top:100%;left:0;right:0;background:var(--dark);flex-direction:column;padding:20px 5vw;gap:0;display:none;border-bottom:5px solid var(--red);z-index:1001}
   nav.open{display:flex}
   nav a{padding:16px 0;border-top:1px solid rgba(255,255,255,0.1);font-size:1rem}
   nav a:first-child{border-top:none}
