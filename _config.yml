@@ -1,7 +1,7 @@
 title: Cobra RattleSnake
 description: Taiwanese-inspired hot sauces for riders, eaters, and heat seekers.
-url: "https://durrutia.github.io"
-baseurl: "/cobra-rattlesnake"
+url: "https://cobrarattlesnake.com"
+baseurl: ""
 markdown: kramdown
 theme: null
 plugins: []
