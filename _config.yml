@@ -3,6 +3,9 @@ description: Taiwanese-inspired hot sauces for riders, eaters, and heat seekers.
 url: "https://cobrarattlesnake.com"
 baseurl: ""
 markdown: kramdown
+kramdown:
+  smart_quotes: ["apos", "apos", "quot", "quot"]
+  input: GFM
 theme: null
 plugins: []
 og_image: "/assets/images/og-default.svg"
