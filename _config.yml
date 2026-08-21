@@ -5,6 +5,8 @@ baseurl: ""
 markdown: kramdown
 theme: null
 plugins: []
+og_image: "/assets/images/og-default.svg"
+twitter_handle: "@cobrarattlesnake"
 collections:
   products:
     output: true
