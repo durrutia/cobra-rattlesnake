@@ -2,13 +2,13 @@
 layout: default
 ---
 <section class="product-hero">
-  <div class="bottle">
+  <div class="bottle" aria-hidden="true">
     <div class="bottle-cap"></div>
     <div class="bottle-label">
       <span>COBRA</span>
       <strong>{{ page.short_label }}</strong>
       <small>{{ page.heat }}</small>
-      <i>辣</i>
+      <i aria-hidden="true">辣</i>
     </div>
   </div>
   <div>
@@ -16,7 +16,7 @@ layout: default
     <h1>{{ page.name }}</h1>
     <p class="lede">{{ page.description }}</p>
     <p><strong>Perfect with:</strong> {{ page.pairs }}</p>
-    <button class="button" type="button" onclick="alert('This is a fictional store — no real checkout yet!')">ADD TO RIDE BAG · $12</button>
+    <button class="button" type="button" onclick="alert('This is a fictional store — no real checkout yet!')" aria-label="Add {{ page.name }} to ride bag (fictional demo)">ADD TO RIDE BAG · $12</button>
   </div>
 </section>
 <section class="content product-copy">
