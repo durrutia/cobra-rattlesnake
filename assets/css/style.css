@@ -27,7 +27,7 @@ nav a:focus-visible{outline:3px solid var(--focus);outline-offset:2px;border-rad
 .hero-copy{padding:9vw 7vw;position:relative;z-index:2}
 .eyebrow{font-weight:900;letter-spacing:.18em;font-size:.78rem;color:var(--yellow)}
 h1,h2{font-family:Anton,sans-serif;text-transform:uppercase;line-height:.92;margin:.15em 0}
-.hero h1{font-size:clamp(4.5rem,11vw,9rem);letter-spacing:.02em}
+.hero h1{font-size:clamp(4.5rem,11vw,9rem);letter-spacing:.02em;overflow-wrap:anywhere}
 h2{font-size:clamp(2.5rem,6vw,3.5rem)}
 .lede{font-size:clamp(1.125rem,2.5vw,1.25rem);max-width:650px}
 .button{display:inline-flex;align-items:center;justify-content:center;min-height:48px;min-width:48px;padding:14px 24px;background:var(--yellow);color:var(--dark);font-weight:900;text-decoration:none;border:3px solid var(--dark);box-shadow:5px 5px 0 var(--dark);font-family:inherit;font-size:inherit;cursor:pointer;line-height:1.2}
@@ -71,8 +71,9 @@ footer{margin-top:100px;padding:40px 7vw;background:var(--dark);color:white;disp
   nav a:first-child{border-top:none}
   .hero{grid-template-columns:1fr;min-height:auto}
   .hero-art{display:none}
-  .hero-copy{padding:clamp(60px,15vw,90px) 5vw}
-  .hero-actions{display:flex;flex-direction:column;gap:12px;width:100%;max-width:320px}
+  .hero-copy{padding:clamp(60px,15vw,90px) 5vw;text-align:center}
+  .hero h1{font-size:clamp(2.5rem,10vw,4rem);letter-spacing:.02em;line-height:1}
+  .hero-actions{display:flex;flex-direction:column;gap:12px;width:100%;max-width:320px;margin:0 auto}
   .button{width:100%}
   .button.ghost{margin-left:0}
   .strip{gap:8px;font-size:clamp(.7rem,2vw,.85rem)}
