@@ -5,7 +5,7 @@ name: Green Mountain Crush
 short_label: GREEN MTN
 heat: MEDIUM-HOT
 short: Green chili, scallion, lime, cilantro, and toasted sesame.
-description: "A fresh green sauce inspired by Taiwan's lush mountain roads—zippy, herbal, and dangerously easy to put on everything."
+description: "A fresh green sauce inspired by Taiwan&apos;s lush mountain roads—zippy, herbal, and dangerously easy to put on everything."
 pairs: "noodles, tacos, eggs, grilled fish, avocado"
 permalink: /products/green-mountain-crush/
 ---
