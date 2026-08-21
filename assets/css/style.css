@@ -14,7 +14,7 @@ html{scroll-behavior:smooth}
 body{margin:0;background:var(--cream);color:var(--ink);font-family:"Noto Sans TC",system-ui,sans-serif;line-height:1.6;font-size:clamp(1rem,2vw,1.125rem)}
 a{color:inherit}
 :focus-visible{outline:3px solid var(--focus);outline-offset:2px}
-.site-header{display:flex;justify-content:space-between;align-items:center;padding:18px 5vw;background:var(--dark);color:white;border-bottom:5px solid var(--red);position:relative}
+.site-header{display:flex;justify-content:space-between;align-items:center;padding:18px 5vw;background:var(--dark);color:white;border-bottom:5px solid var(--red);position:relative;z-index:1000}
 .brand{display:flex;gap:10px;align-items:center;text-decoration:none;font-weight:900;letter-spacing:.06em;line-height:.9}
 .brand-mark{font-size:34px}
 .brand i{font-size:.68em;color:var(--yellow);font-style:normal}
